@@ -1,6 +1,6 @@
 # MiniGame 
 
-Prerequiste system installations to run this project 
+Following are the prerequiste system installations to run this project.
 
 1. Node
 2. Expo cli 
